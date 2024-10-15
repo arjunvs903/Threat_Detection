@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>233.jpg</filename>
+	<path>D:\projects\MainProject\Weapon Detection\Datapreparation\dataset\233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2047</width>
+		<height>1360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>540</ymin>
+			<xmax>1070</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>9</ymin>
+			<xmax>1006</xmax>
+			<ymax>931</ymax>
+		</bndbox>
+	</object>
+</annotation>

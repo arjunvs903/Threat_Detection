@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>387.jpg</filename>
+	<path>D:\projects\MainProject\Weapon Detection\Datapreparation\dataset\387.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>84</ymin>
+			<xmax>754</xmax>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+</annotation>

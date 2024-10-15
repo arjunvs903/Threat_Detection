@@ -1,0 +1,86 @@
+============================================================
+New run started at 2023-08-01.02:29:47.010942
+sys.argv: "/home/arjun/miniconda3/envs/pytorch/lib/python3.9/site-packages/ipykernel_launcher.py -f /home/arjun/.local/share/jupyter/runtime/kernel-d329d278-bd08-46ad-a4b3-5c1415a92b9c.json"
+============================================================
+The console stream is logged into /home/arjun/sg_logs/console.log
+/home/arjun/miniconda3/envs/pytorch/lib/python3.9/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+  warnings.warn("Setuptools is replacing distutils.")
+
+Caching annotations:   0%|                                                                      | 0/381 [00:00<?, ?it/s]
+Caching annotations:   4%|██▏                                                         | 14/381 [00:00<00:02, 133.15it/s]
+Caching annotations:   7%|████▍                                                       | 28/381 [00:00<00:02, 135.92it/s]
+Caching annotations:  11%|██████▌                                                     | 42/381 [00:00<00:02, 137.34it/s]
+Caching annotations:  15%|████████▊                                                   | 56/381 [00:00<00:02, 132.24it/s]
+Caching annotations:  19%|███████████▏                                                | 71/381 [00:00<00:02, 134.96it/s]
+Caching annotations:  22%|█████████████▍                                              | 85/381 [00:00<00:02, 135.74it/s]
+Caching annotations:  26%|███████████████▌                                            | 99/381 [00:00<00:02, 136.33it/s]
+Caching annotations:  30%|█████████████████▋                                         | 114/381 [00:00<00:01, 137.98it/s]
+Caching annotations:  34%|████████████████████▏                                      | 130/381 [00:00<00:01, 142.89it/s]
+Caching annotations:  38%|██████████████████████▍                                    | 145/381 [00:01<00:01, 144.39it/s]
+Caching annotations:  42%|████████████████████████▊                                  | 160/381 [00:01<00:01, 137.08it/s]
+Caching annotations:  46%|███████████████████████████                                | 175/381 [00:01<00:01, 138.40it/s]
+Caching annotations:  50%|█████████████████████████████▌                             | 191/381 [00:01<00:01, 144.15it/s]
+Caching annotations:  54%|████████████████████████████████                           | 207/381 [00:01<00:01, 147.79it/s]
+Caching annotations:  59%|██████████████████████████████████▌                        | 223/381 [00:01<00:01, 150.75it/s]
+Caching annotations:  63%|█████████████████████████████████████                      | 239/381 [00:01<00:00, 152.55it/s]
+Caching annotations:  67%|███████████████████████████████████████▍                   | 255/381 [00:01<00:00, 153.20it/s]
+Caching annotations:  71%|█████████████████████████████████████████▉                 | 271/381 [00:01<00:00, 154.57it/s]
+Caching annotations:  76%|████████████████████████████████████████████▌              | 288/381 [00:01<00:00, 156.22it/s]
+Caching annotations:  80%|███████████████████████████████████████████████            | 304/381 [00:02<00:00, 152.71it/s]
+Caching annotations:  84%|█████████████████████████████████████████████████▌         | 320/381 [00:02<00:00, 154.03it/s]
+Caching annotations:  88%|████████████████████████████████████████████████████       | 336/381 [00:02<00:00, 151.18it/s]
+Caching annotations:  92%|██████████████████████████████████████████████████████▌    | 352/381 [00:02<00:00, 145.30it/s]
+Caching annotations:  96%|████████████████████████████████████████████████████████▊  | 367/381 [00:02<00:00, 136.65it/s]
+Caching annotations: 100%|███████████████████████████████████████████████████████████| 381/381 [00:02<00:00, 135.71it/s]
+Caching annotations: 100%|███████████████████████████████████████████████████████████| 381/381 [00:02<00:00, 143.14it/s]
+
+Caching annotations:   0%|                                                                      | 0/110 [00:00<?, ?it/s]
+Caching annotations:  12%|███████                                                     | 13/110 [00:00<00:00, 121.62it/s]
+Caching annotations:  24%|██████████████▏                                             | 26/110 [00:00<00:00, 120.25it/s]
+Caching annotations:  35%|█████████████████████▎                                      | 39/110 [00:00<00:00, 114.47it/s]
+Caching annotations:  48%|████████████████████████████▉                               | 53/110 [00:00<00:00, 120.62it/s]
+Caching annotations:  61%|████████████████████████████████████▌                       | 67/110 [00:00<00:00, 125.28it/s]
+Caching annotations:  74%|████████████████████████████████████████████▏               | 81/110 [00:00<00:00, 127.59it/s]
+Caching annotations:  86%|███████████████████████████████████████████████████▊        | 95/110 [00:00<00:00, 131.24it/s]
+Caching annotations: 100%|███████████████████████████████████████████████████████████| 110/110 [00:00<00:00, 130.42it/s]
+
+Caching annotations:   0%|                                                                       | 0/54 [00:00<?, ?it/s]
+Caching annotations:  28%|████████████████▉                                            | 15/54 [00:00<00:00, 141.31it/s]
+Caching annotations:  57%|███████████████████████████████████                          | 31/54 [00:00<00:00, 150.61it/s]
+Caching annotations:  87%|█████████████████████████████████████████████████████        | 47/54 [00:00<00:00, 144.19it/s]
+Caching annotations: 100%|█████████████████████████████████████████████████████████████| 54/54 [00:00<00:00, 144.00it/s]
+The console stream is now moved to checkpoints/wd_yolonas_run/console_Aug01_02_30_07.txt
+[2023-08-01 02:30:08] INFO - sg_trainer.py - Using EMA with params {'decay': 0.9, 'decay_type': 'threshold'}
+Exception ignored in: <function _MultiProcessingDataLoaderIter.__del__ at 0x7f0fea91a670>
+Traceback (most recent call last):
+  File "/home/arjun/miniconda3/envs/pytorch/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1478, in __del__
+    self._shutdown_workers()
+  File "/home/arjun/miniconda3/envs/pytorch/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1442, in _shutdown_workers
+    w.join(timeout=_utils.MP_STATUS_CHECK_INTERVAL)
+  File "/home/arjun/miniconda3/envs/pytorch/lib/python3.9/multiprocessing/process.py", line 149, in join
+    res = self._popen.wait(timeout)
+  File "/home/arjun/miniconda3/envs/pytorch/lib/python3.9/multiprocessing/popen_fork.py", line 40, in wait
+    if not wait([self.sentinel], timeout):
+  File "/home/arjun/miniconda3/envs/pytorch/lib/python3.9/multiprocessing/connection.py", line 931, in wait
+    ready = selector.select(timeout)
+  File "/home/arjun/miniconda3/envs/pytorch/lib/python3.9/selectors.py", line 416, in select
+    fd_event_list = self._selector.poll(timeout)
+KeyboardInterrupt: 
+[2023-08-01 02:30:17] INFO - sg_trainer_utils.py - TRAINING PARAMETERS:
+    - Mode:                         Single GPU
+    - Number of GPUs:               1          (1 available on the machine)
+    - Dataset size:                 381        (len(train_set))
+    - Batch size per GPU:           8          (batch_size)
+    - Batch Accumulate:             1          (batch_accumulate)
+    - Total batch size:             8          (num_gpus * batch_size)
+    - Effective Batch size:         8          (num_gpus * batch_size * batch_accumulate)
+    - Iterations per epoch:         47         (len(train_loader))
+    - Gradient updates per epoch:   47         (len(train_loader) / batch_accumulate)
+
+[2023-08-01 02:30:17] INFO - sg_trainer.py - Started training for 100 epochs (0/99)
+
+  0%|          | 0/47 [00:00<?, ?it/s]Train epoch 0:   0%|          | 0/47 [00:00<?, ?it/s]Train epoch 0:   0%|          | 0/47 [00:04<?, ?it/s]
+[2023-08-01 02:30:21] INFO - sg_trainer.py - 
+[MODEL TRAINING EXECUTION HAS BEEN INTERRUPTED]... Please wait until SOFT-TERMINATION process finishes and saves all of the Model Checkpoints and log files before terminating...
+[2023-08-01 02:30:21] INFO - sg_trainer.py - For HARD Termination - Stop the process again
+[2023-08-01 02:30:21] INFO - base_sg_logger.py - [CLEANUP] - Successfully stopped system monitoring process

@@ -1,0 +1,11 @@
+
+
+
+{'PPYoloELoss/loss_cls': 0.7319981,
+ 'PPYoloELoss/loss_iou': 0.13553436,
+ 'PPYoloELoss/loss_dfl': 1.0123303,
+ 'PPYoloELoss/loss': 1.576999,
+ 'Precision@0.50': 0.11382093280553818,
+ 'Recall@0.50': 1.0,
+ 'mAP@0.50': 0.9660202860832214,
+ 'F1@0.50': 0.20181788504123688}

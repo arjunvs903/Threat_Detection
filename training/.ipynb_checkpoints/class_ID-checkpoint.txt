@@ -1,0 +1,3 @@
+0  -  PERSON
+1  -  KNIFE
+2  -  GUN

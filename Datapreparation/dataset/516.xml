@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>516.jpg</filename>
+	<path>D:\projects\MainProject\Weapon Detection\Datapreparation\dataset\516.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>1419</ymin>
+			<xmax>2009</xmax>
+			<ymax>6000</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2006</xmin>
+			<ymin>1156</ymin>
+			<xmax>3862</xmax>
+			<ymax>5987</ymax>
+		</bndbox>
+	</object>
+</annotation>

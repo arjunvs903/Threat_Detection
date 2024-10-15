@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>070.jpg</filename>
+	<path>D:\projects\MainProject\Weapon Detection\Datapreparation\dataset\070.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>5472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>1924</ymin>
+			<xmax>1751</xmax>
+			<ymax>5472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>1</ymin>
+			<xmax>3640</xmax>
+			<ymax>5472</ymax>
+		</bndbox>
+	</object>
+</annotation>

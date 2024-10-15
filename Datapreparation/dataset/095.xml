@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>095.jpg</filename>
+	<path>D:\projects\MainProject\Weapon Detection\Datapreparation\dataset\095.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4024</width>
+		<height>6048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1234</xmin>
+			<ymin>2674</ymin>
+			<xmax>1703</xmax>
+			<ymax>3805</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>961</ymin>
+			<xmax>3941</xmax>
+			<ymax>6048</ymax>
+		</bndbox>
+	</object>
+</annotation>

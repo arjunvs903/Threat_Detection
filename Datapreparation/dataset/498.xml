@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>498.jpg</filename>
+	<path>D:\projects\MainProject\Weapon Detection\Datapreparation\dataset\498.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3675</width>
+		<height>5512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>1244</ymin>
+			<xmax>3365</xmax>
+			<ymax>5512</ymax>
+		</bndbox>
+	</object>
+</annotation>

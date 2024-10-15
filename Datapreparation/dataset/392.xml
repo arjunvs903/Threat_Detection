@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>392.jpg</filename>
+	<path>D:\projects\MainProject\Weapon Detection\Datapreparation\dataset\392.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>439</ymin>
+			<xmax>433</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>16</ymin>
+			<xmax>421</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>

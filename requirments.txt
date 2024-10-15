@@ -1,0 +1,7 @@
+super-gradients
+opencv-python
+numpy
+flask
+pillow
+twilio
+moviepy

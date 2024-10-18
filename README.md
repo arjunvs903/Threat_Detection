@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-DefendEye is an advanced weapon detection system designed to identify potential threats, such as firearms and knives, in real-time using the state-of-the-art YOLO-NAS architecture. This project aims to enhance public safety by providing real-time threat detection and alerting capabilities, which can be implemented in various security-sensitive environments such as airports, public spaces, and law enforcement.
+gitgit
 
 ## Features
 

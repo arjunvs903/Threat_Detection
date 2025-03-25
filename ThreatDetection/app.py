@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template, jsonify, Response, send_file
 import numpy as np
 from pickle import load, dump
-
+from dotenv import load_dotenv
 import cv2
 import numpy as np
 from time import time, sleep
@@ -24,13 +24,19 @@ app = Flask(__name__)
 start  = time()
 cnt = True
 
+
+
 def generate(phone):
     global start
     global cnt
-    # set Twilio account SID, auth token, and phone number
-    account_sid = 'AC70d82eba573132115cf2c557ac85bdb1'
-    auth_token = 'd028c51cbc25a7b098cf788cd5dd4177'
-    twilio_number = '+19893732989'
+
+    # Load environment variables from .env
+    load_dotenv()
+    
+    # Get Twilio credentials and phone number
+    account_sid = os.getenv('TWILIO_ACCOUNT_SID')
+    auth_token = os.getenv('TWILIO_AUTH_TOKEN')
+    twilio_number = os.getenv('TWILIO_PHONE_NUMBER')  # Load Twilio phone number
 
     # create Twilio client
     client = Client(account_sid, auth_token)

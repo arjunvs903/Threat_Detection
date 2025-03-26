@@ -173,8 +173,8 @@ def process_file():
         res =  model.to(0 if torch.cuda.is_available() else "cpu").predict(fname).save(r"Processed\output.mp4")  
         video_clip = VideoFileClip(r"Processed\output.mp4")
         video_clip = video_clip.set_fps(24)
-        video_clip.write_videofile(r"Processed\output2.mp4", codec="libx264")
-        video_file_path = 'Processed/output2.mp4'  # Update with the correct path
+        video_clip.write_videofile(r"Processed\output.mp4", codec="libx264")
+        video_file_path = 'Processed/output.mp4'  # Update with the correct path
 
         # # Read video file
         # with open(video_file_path, 'rb') as video_file:
@@ -187,7 +187,7 @@ def process_file():
         # data_url = f'data:video/mp4;base64,{encoded_data}'
 
         # return Response(data_url, content_type='text/plain')
-        if os.path.exists(r"Processed\output2.mp4"):
+        if os.path.exists(r"Processed\output.mp4"):
             return "true"
         else:
             return "false"

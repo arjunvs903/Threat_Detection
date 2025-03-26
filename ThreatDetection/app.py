@@ -208,7 +208,7 @@ def process_file():
     
 @app.route("/video_data")
 def send_vdata():
-    return send_file(r"Processed\output2.mp4", mimetype='video/mp4', as_attachment=False)
+    return send_file(r"Processed\output.mp4", mimetype='video/mp4', as_attachment=False)
 
 if __name__ == "__main__":
     app.run(debug=True)
